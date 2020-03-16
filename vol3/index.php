@@ -158,4 +158,4 @@ label {
 
 <?php endif; ?>
 </body>
-</htm>
+</html>
